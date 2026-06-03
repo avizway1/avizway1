@@ -21,8 +21,8 @@
 
 I’m **Avinash Reddy Thipparthi**, a **Cloud & DevOps Architect at Aviz Academy** with:
 
-- ✅ **14 years of industry experience**
-- ✅ **8 years of teaching AWS & DevOps**
+- ✅ **15 years of industry experience**
+- ✅ **9 years of teaching AWS & DevOps**
 - ✅ Recognized as an **AWS Community Builder**  
 - ✅ Selected **Docker Captain**
 
